@@ -1,0 +1,10 @@
+---
+title:
+timezone: UTC
+collections:
+defaults:
+- scope:
+    path: ''
+    type:
+  values:
+    siteTitle: Painel Admin
